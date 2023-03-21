@@ -1,6 +1,6 @@
 {
   "name": "json-like-parse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JavaScript npm module that finds JSON-like text within a string and then parses it on best effort basis",
   "main": "index.js",
   "scripts": {
