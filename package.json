@@ -6,9 +6,19 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "json",
+    "parse",
+    "best-effort",
+    "best effort",
+    "best effort json",
+    "best effort json parser",
+    "json parse AI",
+    "json parse artificial intelligence",
+    "json parse artificial intelligence module",
+  ],
+  "author": "Wieger Wolf",
+  "license": "MIT",
   "dependencies": {
     "best-effort-json-parser": "^1.0.1"
   },
