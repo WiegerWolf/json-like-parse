@@ -18,6 +18,10 @@
     "json parse artificial intelligence module",
   ],
   "author": "Wieger Wolf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WiegerWolf/json-like-parse.git"
+  },
   "license": "MIT",
   "dependencies": {
     "best-effort-json-parser": "^1.0.1"
