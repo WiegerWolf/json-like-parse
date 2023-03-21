@@ -54,6 +54,10 @@ This module uses a regex-based approach to matching JSON-like text, which has so
 
 It is generally better to use a proper JSON parser when working with JSON data. This module should be used with caution and only for specific use cases where a best-effort approach to parsing JSON-like text is acceptable.
 
+## Contributions
+
+We welcome contributions to the JSON-Like Text Parser module! If you'd like to contribute, see [CONTRIBUTION.md](CONTRIBUTION.md) file for detailed instructions.
+
 ## License
 
 [MIT License](https://choosealicense.com/licenses/mit/)
