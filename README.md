@@ -1,4 +1,6 @@
-![JSON-Like Text Parser Logo](images/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="JSON-Like Text Parser Logo" width="256" height="256">
+</p>
 
 # json-like-parse
 JavaScript npm module that finds JSON-like text within a string and then parses it on best effort basis.
