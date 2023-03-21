@@ -34,6 +34,8 @@ To install the package, run:
 npm install json-like-parse
 ```
 
+[![Node.js Package](https://github.com/WiegerWolf/json-like-parse/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/WiegerWolf/json-like-parse/actions/workflows/npm-publish.yml)
+
 ## Tests
 
 To run tests, execute the following command in the module directory:
