@@ -27,7 +27,7 @@ const text = 'Some text before {"key1": "value1", "key2": {"key3": "value3"}} so
 
 const parsedJsonObjects = findAndParseJsonLikeText(text);
 
-console.log(parsedJsonObjects);
+console.log(parsedJsonObjects); // [ { key1: 'value1', key2: { key3: 'value3' } } ]
 ```
 
 ## Installation
