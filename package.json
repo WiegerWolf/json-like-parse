@@ -1,0 +1,18 @@
+{
+  "name": "json-like-parse",
+  "version": "1.0.0",
+  "description": "JavaScript npm module that finds JSON-like text within a string and then parses it on best effort basis",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "best-effort-json-parser": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
